@@ -288,10 +288,9 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://www.youtube.com/embed/tBwtpXZyQ1I?controls=0&loop=1&autoplay=1");
+  ifrm.setAttribute("src", "https://www.youtube.com/embed/6oKoSOSt72M?controls=0&loop=1&autoplay=1");
   
   
   ifrm.style.border = 'none';
   document.querySelector('#video').appendChild(ifrm);
 }
-
